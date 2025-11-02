@@ -1,0 +1,9 @@
+{
+  "pilot_id": "IND1234",
+  "aircraft_id": "VT-XYZ",
+  "flight_date": "2025-11-02",
+  "battery_status": "ON",
+  "fuel_pump": "ON",
+  "landing_gear": "UP",
+  "takeoff_lights": "OFF"
+}
